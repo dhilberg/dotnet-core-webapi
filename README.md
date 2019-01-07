@@ -1,7 +1,7 @@
-DotNet Basic WebApi Template
+.NET Core Basic WebApi Template
 ===
 
-A basic dotnet WebApi and unit test project created entirely from the dotnet CLI using the following steps:
+A basic .NET Core 2.2 WebApi and unit test project created entirely from the dotnet CLI using the following steps:
 
 1. `mkdir dotnet-webapi && cd dotnet-webapi`
 2. `dotnet new sln --name WebApi`
